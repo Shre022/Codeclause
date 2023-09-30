@@ -1,0 +1,2 @@
+implementation 'com.joanzapata.pdfview:android-pdfview:1.0.4@aar'
+implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
